@@ -1,4 +1,4 @@
-Follow the below steps:
+Follow the steps in the below link:
 https://github.com/plerup/makeEspArduino
 
 Also look at the below links if need be:
